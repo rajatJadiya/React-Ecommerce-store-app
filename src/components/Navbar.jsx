@@ -26,7 +26,7 @@ const Navbar = () => {
           {/* Logo */}
           <div>
             <NavLink to={"/"} className="text-3xl font-poppins uppercase">
-            Shop<span className="text-shopBlue">Haven</span>
+            Shop<span className="text-shopBlue">Lane</span>
             </NavLink>
           </div>
 

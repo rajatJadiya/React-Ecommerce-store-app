@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='shop-container py-[1%]'>
             {/* Logo and tagline  */}
             <div className='text-center'>
-                <h2 className='text-white uppercase text-3xl'>Shop<span className='text-shopBlue'>Haven</span></h2>
+                <h2 className='text-white uppercase text-3xl'>Shop<span className='text-shopBlue'>Lane</span></h2>
                 <p className='mt-3 text-center text-white px-3 max-w-[800px] mx-auto'>Discover the latest trends in clothing, fashion accessories, electronics, and jewelry, all at one-stop-shop. Elevate your style and shopping experience with us today!</p>
             </div>
             
